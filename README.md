@@ -32,12 +32,6 @@ Aqui vão meus projetos reais e úteis — clique para ver o código e como roda
 
 (Pinne esses repos no seu perfil: vá no repo → Settings → Features → Pin to profile)
 
-### Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true" alt="Streak" width="48%" />
-</div>
-
 ### Vamos trabalhar juntos?
 - Aberto a **freelas rápidos** em Porto Alegre: automações Excel, bots Telegram, relatórios automáticos (a partir de R$ 300–800)
 - Me chama no **WhatsApp**: (54) 99631 2271
