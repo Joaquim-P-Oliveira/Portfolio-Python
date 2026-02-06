@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=Olá!+Eu+sou+Joaquim+👋;Jovem+Dev+Python+de+Porto+Alegre;Automação+|+Bots+|+Ferramentas+úteis+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Joaquim+👋;Jovem+Dev+Python+de+Porto+Alegre;Automação+|+Bots+|+Ferramentas+úteis+🚀" alt="Typing SVG" />
 </div>
 
 ### Sobre mim
