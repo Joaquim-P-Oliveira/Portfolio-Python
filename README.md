@@ -26,7 +26,6 @@ Aqui vão meus projetos reais e úteis — clique para ver o código e como roda
 
 2. **Bot Telegram Utilitário** → Cotação dólar, clima POA, lembretes e mais (deploy no Render)  
    Tecnologias: python-telegram-bot, requests, schedule  
-   Teste: t.me/seu_bot_aqui (substitua pelo seu!)
 
 3. **Rastreador de Preços Simples** → Scraping básico de e-commerces → salva em Excel + alerta  
    Tecnologias: requests, BeautifulSoup, pandas
@@ -41,8 +40,8 @@ Aqui vão meus projetos reais e úteis — clique para ver o código e como roda
 
 ### Vamos trabalhar juntos?
 - Aberto a **freelas rápidos** em Porto Alegre: automações Excel, bots Telegram, relatórios automáticos (a partir de R$ 300–800)
-- Me chama no **WhatsApp** ou **Telegram**: [seu número ou @] (use com permissão dos pais)
-- Email: seuemail@gmail.com
+- Me chama no **WhatsApp**: (54) 99631 2271
+- Email: jpradodeoliveira2014@gmail.com
 
 <div align="center">
   <img src="https://img.shields.io/badge/Porto+Alegre-RS-blue?style=flat&logo=google-maps&logoColor=white" alt="POA" />
